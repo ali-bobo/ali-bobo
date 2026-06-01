@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Commit Constellation](https://raw.githubusercontent.com/ali-bobo/commit_rendering/main/commit-constellation/commit-constellation/public/preview.png)](https://ali-bobo.github.io/commit_rendering/)
+[![Commit Constellation](https://raw.githubusercontent.com/ali-bobo/commit_rendering/main/public/preview.png)](https://ali-bobo.github.io/commit_rendering/)
 
 <!--
 **ali-bobo/ali-bobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
