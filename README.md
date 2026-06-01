@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![Commit Constellation](https://raw.githubusercontent.com/ali-bobo/commit_rendering/main/public/preview.png)](https://ali-bobo.github.io/commit_rendering/)
+<a href="https://ali-bobo.github.io/commit_rendering/">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/ali-bobo/commit_rendering/main/public/preview.webp" type="image/webp">
+    <img src="https://raw.githubusercontent.com/ali-bobo/commit_rendering/main/public/preview.png" alt="Commit Constellation — my GitHub contributions as an animated nebula">
+  </picture>
+</a>
 
 <!--
 **ali-bobo/ali-bobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
