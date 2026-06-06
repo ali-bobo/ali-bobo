@@ -6,6 +6,8 @@
   </picture>
 </a>
 
+[▶ 互動版 — hover 看星座與專案](https://ali-bobo.github.io/commit_rendering/)
+
 <!--
 **ali-bobo/ali-bobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
